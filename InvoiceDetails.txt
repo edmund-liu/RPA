@@ -1,0 +1,112 @@
+Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Madras | BOFAIN4XMAA
+Bank of America
+Account : 621570144077 | BUCKMAN LABORATORIES(I)P LTD | (INR)
+ 
+Details
+ 
+Amount 1,000,000.00
+Transaction Type Local Currency Wire Receipt (195) 
+Customer Reference Number FDRLH00300941433
+Bank Reference Number 6215003D0E88
+Value Date 01/03/2020
+Remitter Name PRIME ENTERPRISES ELLORE TAMIL NADU INDIA 635802
+Remitter Information /FAST/
+Additional Information
+ Page 1Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Madras | BOFAIN4XMAA
+Bank of America
+Account : 621570144077 | BUCKMAN LABORATORIES(I)P LTD | (INR)
+ 
+Details
+ 
+Amount 399,135.00
+Transaction Type Local Currency Wire Receipt (195) 
+Customer Reference Number SCBLH00300004127
+Bank Reference Number 6215003D0D64
+Value Date 01/03/2020
+Remitter Name M/S HUHTAMAKI PPL LIMITED 3,AT POST,UMERKOI VIA SILVASSA.,UT
+Remitter Information M/S HUHTAMAKI PPL LIMITED /URGENT/7495 line1 7495 line2 and line3 7495 line4
+Additional Information
+ Page 2Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Madras | BOFAIN4XMAA
+Bank of America
+Account : 621570144077 | BUCKMAN LABORATORIES(I)P LTD | (INR)
+ 
+Details
+ 
+Amount 220,434.00
+Transaction Type Local Currency Wire Receipt (195) 
+Customer Reference Number HDFCH00362701631
+Bank Reference Number 6215003D0E50
+Value Date 01/03/2020
+Remitter Name SAPRADYESANDCHEMICALS BASTIDANISHMANDANJALANDHAR
+Remitter Information
+Additional Information
+ Page 3Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Madras | BOFAIN4XMAA
+Bank of America
+Account : 621570144077 | BUCKMAN LABORATORIES(I)P LTD | (INR)
+ 
+Details
+ 
+Amount 1,451,695.00
+Transaction Type Miscellaneous Credit (399) 
+Customer Reference Number CKD
+Bank Reference Number
+Value Date 01/03/2020
+Additional Information /ENTRY-03 JAN 00001 CKD DEP
+ Page 4Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Singapore | BOFASG2X
+Bank of America
+Account : 621259958012 | Buckman Laboratories (Asia) Pte Ltd | (USD)
+ 
+Details
+ 
+Amount 25,390.50
+Transaction Type LC Receipt (213) 
+Customer Reference Number EX875287/19 01
+Bank Reference Number
+Value Date 01/03/2020
+Additional Information /ENTRY-03 JAN REF 90123245/103758
+ Page 5Transaction Credit Advice
+Company: Buckman Laboratories Inc
+Requestor : Irene Lee
+Run Date: 01/03/2020 20:32:34 SGT
+As of: 01/03/2020
+Bank of America, Singapore | BOFASG2X
+Bank of America
+Account : 621259958012 | Buckman Laboratories (Asia) Pte Ltd | (USD)
+ 
+Details
+ 
+Amount 11,336.00
+Transaction Type LC Receipt (213) 
+Customer Reference Number OD217603/19 01
+Bank Reference Number
+Value Date 01/03/2020
+Additional Information /ENTRY-03 JAN REF 90121996
+ 
+ 
+ 
+ Page 6
